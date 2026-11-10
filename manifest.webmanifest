@@ -1,0 +1,15 @@
+{
+  "name": "CRT ICT Mobile Lab V2",
+  "short_name": "CRT ICT Lab",
+  "description": "Screenshot-first CRT and ICT trading analysis workspace.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
